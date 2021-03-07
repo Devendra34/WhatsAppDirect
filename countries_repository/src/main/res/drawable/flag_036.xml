@@ -1,0 +1,93 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="30240"
+    android:viewportHeight="15120"
+    android:width="1280dp"
+    android:height="640dp">
+    <path
+        android:pathData="M0 0L30240 0L30240 15120L0 15120L0 0z"
+        android:fillColor="#00008B" />
+    <group
+        android:scaleX="252"
+        android:scaleY="252"
+        android:translateX="7560"
+        android:translateY="11340">
+        <path
+            android:pathData="M0 -9L1.735535 -3.6038755 7.0364833 -5.6114082 3.8997116 -0.89008374 8.7743512 2.0026884 3.1273259 2.4939592 3.9049537 8.1087198 0 4 -3.9049537 8.1087198 -3.1273259 2.4939592 -8.7743512 2.0026884 -3.8997116 -0.89008374 -7.0364833 -5.6114082 -1.735535 -3.6038755 0 -9Z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:scaleX="120"
+        android:scaleY="120"
+        android:translateX="22680"
+        android:translateY="12600">
+        <path
+            android:pathData="M0 -9L1.735535 -3.6038755 7.0364833 -5.6114082 3.8997116 -0.89008374 8.7743512 2.0026884 3.1273259 2.4939592 3.9049537 8.1087198 0 4 -3.9049537 8.1087198 -3.1273259 2.4939592 -8.7743512 2.0026884 -3.8997116 -0.89008374 -7.0364833 -5.6114082 -1.735535 -3.6038755 0 -9Z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:scaleX="120"
+        android:scaleY="120"
+        android:translateX="18900"
+        android:translateY="6615">
+        <path
+            android:pathData="M0 -9L1.735535 -3.6038755 7.0364833 -5.6114082 3.8997116 -0.89008374 8.7743512 2.0026884 3.1273259 2.4939592 3.9049537 8.1087198 0 4 -3.9049537 8.1087198 -3.1273259 2.4939592 -8.7743512 2.0026884 -3.8997116 -0.89008374 -7.0364833 -5.6114082 -1.735535 -3.6038755 0 -9Z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:scaleX="120"
+        android:scaleY="120"
+        android:translateX="22680"
+        android:translateY="2520">
+        <path
+            android:pathData="M0 -9L1.735535 -3.6038755 7.0364833 -5.6114082 3.8997116 -0.89008374 8.7743512 2.0026884 3.1273259 2.4939592 3.9049537 8.1087198 0 4 -3.9049537 8.1087198 -3.1273259 2.4939592 -8.7743512 2.0026884 -3.8997116 -0.89008374 -7.0364833 -5.6114082 -1.735535 -3.6038755 0 -9Z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:scaleX="120"
+        android:scaleY="120"
+        android:translateX="26040"
+        android:translateY="5607">
+        <path
+            android:pathData="M0 -9L1.735535 -3.6038755 7.0364833 -5.6114082 3.8997116 -0.89008374 8.7743512 2.0026884 3.1273259 2.4939592 3.9049537 8.1087198 0 4 -3.9049537 8.1087198 -3.1273259 2.4939592 -8.7743512 2.0026884 -3.8997116 -0.89008374 -7.0364833 -5.6114082 -1.735535 -3.6038755 0 -9Z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <group
+        android:scaleX="70"
+        android:scaleY="70"
+        android:translateX="24192"
+        android:translateY="8190">
+        <path
+            android:pathData="M0 -9L2.351141 -3.236068 8.5595086 -2.7811529 3.8042261 1.236068 5.2900673 7.2811529 0 4 -5.2900673 7.2811529 -3.8042261 1.236068 -8.5595086 -2.7811529 -2.351141 -3.236068 0 -9Z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <path
+        android:pathData="M6300 0L8820 0L8820 2520L15120 2520L15120 5040L8820 5040L8820 7560L6300 7560L6300 5040L0 5040L0 2520L6300 2520L6300 0z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M0 0L1690.4674 0L15120 6714.7663L15120 7560L13429.533 7560L0 845.2337L0 0z"
+        android:fillColor="#FFFFFF" />
+    <group
+        android:rotation="-0"
+        android:scaleX="-1"
+        android:translateX="15120">
+        <path
+            android:pathData="M0 0L1690.4674 0L15120 6714.7663L15120 7560L13429.533 7560L0 845.2337L0 0z"
+            android:fillColor="#FFFFFF" />
+    </group>
+    <path
+        android:pathData="M6804 0L8316 0L8316 3024L15120 3024L15120 4536L8316 4536L8316 7560L6804 7560L6804 4536L0 4536L0 3024L6804 3024L6804 0z"
+        android:fillColor="#FF0000" />
+    <path
+        android:pathData="M0 0L5040 2520L3913.0217 2520L0 563.48913L0 0zM15120 0L13993.022 0L8953.0217 2520L10080 2520L15120 0z"
+        android:fillColor="#FF0000" />
+    <group
+        android:rotation="-0"
+        android:scaleX="-1"
+        android:scaleY="-1"
+        android:translateX="15120"
+        android:translateY="7560">
+        <path
+            android:pathData="M0 0L5040 2520L3913.0217 2520L0 563.48913L0 0zM15120 0L13993.022 0L8953.0217 2520L10080 2520L15120 0z"
+            android:fillColor="#FF0000" />
+    </group>
+</vector>

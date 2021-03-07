@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhatsApp Direct</string>
+    <string name="phone_no">Phone No</string>
+    <string name="flag">flag</string>
+    <string name="launch_whatsapp">Launch WhatsApp</string>
+    <string name="country">Country</string>
+    <string name="message_if_any">Message (optional)</string>
+</resources>
