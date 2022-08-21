@@ -15,7 +15,8 @@
         android:layout_height="20dp"
         android:contentDescription="@string/flag"
         android:layout_gravity="center"
-        tools:src="@drawable/indian_flag"/>
+        android:visibility="gone"
+        tools:src="@drawable/ic_whatsapp"/>
 
     <TextView
         android:id="@+id/name"

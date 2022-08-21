@@ -35,8 +35,11 @@ class MainActivity : AppCompatActivity() {
             binding.countryCodeText.text = countryCodeText
             binding.flagIcon.setImageResource(country.drawableId)
         }
+        binding.countryCodeText.setOnClickListener {
+            showCountryFlag()
+        }
         binding.flagIcon.setOnClickListener {
-           bottomSheet?.show(supportFragmentManager, "Country Bottom Sheet")
+            showCountryFlag()
         }
 
         binding.launchWhatsApp.setOnClickListener {
@@ -72,5 +75,9 @@ class MainActivity : AppCompatActivity() {
     private fun processRawText(phNo: String?) {
         phoneNo = phNo ?: ""
         binding.phoneInput.editText?.setText(phoneNo)
+    }
+
+    private fun showCountryFlag() {
+        bottomSheet?.show(supportFragmentManager, "Country Bottom Sheet")
     }
 }
